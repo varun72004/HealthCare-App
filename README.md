@@ -1,4 +1,4 @@
-**# 🏥 HealthCare AI - Diagnosis & Recommendation System
+# 🏥 HealthCare AI - Diagnosis & Recommendation System
 
 
 A comprehensive healthcare application that uses artificial intelligence to predict diseases, recommend medicines, suggest diet plans, and generate personalized daily routines based on user symptoms and health data.
